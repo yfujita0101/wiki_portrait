@@ -1,0 +1,8 @@
+# Ignore savedImage folder
+wikiproject/savedImage/*
+
+# Ignore __pychache__ folder
+__pycache__
+
+# Ignore .file
+wikiproject/.DS_Store
